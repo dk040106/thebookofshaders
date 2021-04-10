@@ -3,7 +3,7 @@
 # The Book of Shaders
 *by [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)*
 
-이것은 황량하게 넓고 복잡한 Fragment Shader의 세계를 한단계씩 살펴보는 지침서입니다.
+이 책은 추상적인 Fragment Shader의 세계를 한단계씩 살펴보는 지침서입니다.
 
 ## 번역에 대하여
 
@@ -17,16 +17,16 @@
 
 * [이 책에 대하여](00/?lan=kr)
 
-* 시작하기 앞서
-    * [쉐이더란 무엇인가?](01/?lan=kr)
+* Shader 시작하기
+    * [Shader란 무엇인가?](01/?lan=kr)
     * [“헬로 월드!”](02/?lan=kr)
-    * [유니폼](03/?lan=kr)
+    * [Uniform](03/?lan=kr)
 	* [쉐이더 실행하기](04/?lan=kr)
 
 * Algorithmic drawing
     * [모양 그리기](05/?lan=kr)
-    * [색에 대해](06/?lan=kr)
-    * [형태에 대해](07/?lan=kr)
+    * [색상](06/?lan=kr)
+    * [형태](07/?lan=kr)
     * [행렬](08/?lan=kr)
     * [패턴](09/?lan=kr)
 
